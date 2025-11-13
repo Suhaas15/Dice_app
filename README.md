@@ -13,11 +13,11 @@ Welcome to Dicee, your new favorite pocket companion for all things dice-related
 
 ### Android
 
-_Your screenshot here_
+<img src="images/android.png" width="250" height="200%"> 
 
 ### iOS
 
-_Your screenshot here_
+<img src="images/IOS.png" width="250" height="200%"> 
 
 ## 🚀 How to Play
 

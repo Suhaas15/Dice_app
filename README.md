@@ -17,7 +17,7 @@ Welcome to Dicee, your new favorite pocket companion for all things dice-related
 
 ### iOS
 
-<img src="images/IOS.png" width="250" height="200%"> 
+<img src="images/IOS.png"> 
 
 ## 🚀 How to Play
 

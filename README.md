@@ -13,7 +13,7 @@ Welcome to Dicee, your new favorite pocket companion for all things dice-related
 
 ### Android
 
-<img src="images/android.png" width="250" height="200%"> 
+<img src="images/android.png"> 
 
 ### iOS
 
